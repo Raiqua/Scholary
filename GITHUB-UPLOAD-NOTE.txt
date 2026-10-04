@@ -1,0 +1,4 @@
+GitHub upload note
+
+This bundle omits hidden dotfiles such as .dockerignore because GitHub web upload may hide them.
+All application source, assets, package manifests, lockfiles and configuration files are included.
